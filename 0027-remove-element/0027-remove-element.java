@@ -1,14 +1,15 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
 
-        int[] filtered = Arrays.stream(nums)
-                                .filter(i -> i!=val)
-                                .toArray();
+        int k=0;
 
-        for(int i=0; i<filtered.length; i++){
-            nums[i] = filtered[i];
+        for(int i=0; i<nums.length; i++){
+            if(nums[i] != val){
+                nums[k] = nums[i];
+                k+=1;
+            }
         }
 
-        return filtered.length;
+        return k;
     }
 }
