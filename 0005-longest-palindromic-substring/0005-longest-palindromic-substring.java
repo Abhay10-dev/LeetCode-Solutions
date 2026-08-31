@@ -2,7 +2,7 @@ class Solution {
     public String longestPalindrome(String s) {
         if(s==null || s.length() == 0) return "";
 
-        if(s.equals(reverse(s))) return s;
+        // if(s.equals(reverse(s))) return s;
 
         int start=0;
         int end=0;
