@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
