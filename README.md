@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
