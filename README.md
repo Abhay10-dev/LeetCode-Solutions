@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0231-power-of-two) |
