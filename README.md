@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
