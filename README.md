@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -222,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Manacher
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
