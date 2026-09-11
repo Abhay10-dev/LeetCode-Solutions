@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
