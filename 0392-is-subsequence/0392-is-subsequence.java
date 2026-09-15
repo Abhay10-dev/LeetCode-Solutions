@@ -1,7 +1,7 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
 
-        if(s == null || t == null) return false;
+        if(s == null || t == null) return true;
         if(s.length() > t.length()) return false;
         if(s.isEmpty()) return true;;
         
