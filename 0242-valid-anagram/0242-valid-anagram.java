@@ -3,17 +3,17 @@ class Solution {
 
         if(s==null || t==null || s.length() != t.length()) return false;
 
-        List<Integer> l1 = s.chars()
-                            .sorted()
-                            .boxed()
-                            .collect(Collectors.toList());
+        int[] count = new int[26];
 
-        List<Integer> l2 = t.chars()
-                            .sorted()
-                            .boxed()
-                            .collect(Collectors.toList());
-        
+        for(int i=0; i < s.length(); i++){
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
+        }
 
-        return l1.equals(l2) ? true : false;
+        for(int i : count){
+            if(i != 0) return false;
+        }        
+
+        return true;
     }
 }
