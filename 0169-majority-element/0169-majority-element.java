@@ -5,25 +5,6 @@ class Solution {
 
         Arrays.sort(nums);
 
-        int n = nums.length;
-        int maxElement = nums[0];
-        int currCount=1;
-        int maxCount=1;
-
-
-        for(int i=1; i<n; i++){
-            if(nums[i] == nums[i-1]){
-                currCount++;
-            } else {
-                currCount=1;
-            } 
-            
-            if(currCount > maxCount){
-                maxCount = currCount;
-                maxElement = nums[i];
-            }
-        }
-
-        return maxElement;
+        return nums[nums.length/2];
     }
 }
