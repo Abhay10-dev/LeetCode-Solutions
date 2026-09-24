@@ -1,15 +1,17 @@
 class Solution {
     public char findTheDifference(String s, String t) {
         
-        char res = 0;
+        int sumS=0, sumT=0;
         
-        for(char c  : s.toCharArray()){
-            res ^= c;
+        for(int i=0; i<s.length(); i++){
+            sumS = sumS + s.charAt(i);
         }
-        for(char c  : t.toCharArray()){
-            res ^= c;
+        
+        for(int i=0; i<t.length(); i++){
+            sumT = sumT + t.charAt(i);
         }
 
-        return res;
+
+        return (char)(sumT-sumS);
     }
 }
