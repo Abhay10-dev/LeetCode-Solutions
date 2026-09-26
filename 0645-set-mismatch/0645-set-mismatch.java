@@ -11,17 +11,15 @@ class Solution {
         int actualSum = 0;
 
         for(int i : nums){
-            set.add(i);
+            if(set.add(i)){
+                actualSum += i;
+            }
         }
 
         for(int i=0; i < n-1; i++){
             if(nums[i] == nums[i+1]){
                 res[0] = nums[i];
             }
-        }
-
-        for(int num : set){
-            actualSum += num;
         }
 
         res[1] = expectedSum-actualSum;
