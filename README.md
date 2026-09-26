@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
