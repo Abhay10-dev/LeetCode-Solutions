@@ -6,12 +6,10 @@ class Solution {
         Set<Integer> dup = new HashSet<>();
         int[] res = new int[2];
         int n = nums.length;
-        int i=0;
 
         for(int num : nums){
             if(!set.add(num)){
                 dup.add(num);
-                i++;
             }
         }
         
