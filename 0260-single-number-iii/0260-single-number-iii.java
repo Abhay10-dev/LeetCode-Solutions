@@ -15,7 +15,7 @@ class Solution {
         
         int count = 0; 
         
-        for (int j = 0; j < n; j++) {            
+        for (int j = 0; j < n && count < 2; j++) {            
             if (!dup.contains(nums[j])) {
                 res[count] = nums[j];
                 count++;
