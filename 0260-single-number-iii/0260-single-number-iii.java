@@ -15,15 +15,8 @@ class Solution {
         
         int count = 0; 
         
-        for (int j = 0; j < n; j++) {
-            boolean exists = false;
-            for (int k = 0; k < dup.size(); k++) {
-                if (dup.contains(nums[j])) {
-                    exists = true;
-                    break;
-                }
-            }
-            if (!exists) {
+        for (int j = 0; j < n; j++) {            
+            if (!dup.contains(nums[j])) {
                 res[count] = nums[j];
                 count++;
             }
