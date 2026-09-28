@@ -16,7 +16,7 @@ class Solution {
             }
         }
 
-        return (maxRes==0) ? 0 : maxRes;
+        return maxRes;
     }
 
     private boolean isUniqueString(String s1, String s2){
