@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Manacher
@@ -369,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
