@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
