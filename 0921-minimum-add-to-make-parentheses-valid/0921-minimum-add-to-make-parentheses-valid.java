@@ -11,7 +11,7 @@ class Solution {
             if(c == '('){
                 stack.push(c);
             } else { // ')'
-                if(!stack.isEmpty() && c == ')'){
+                if(!stack.isEmpty()){
                     stack.pop();
                 } else {
                     count++;
