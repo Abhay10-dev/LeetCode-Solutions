@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -312,12 +313,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
