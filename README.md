@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
