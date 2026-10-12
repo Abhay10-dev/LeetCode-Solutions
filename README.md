@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0389-find-the-difference) |
