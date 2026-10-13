@@ -13,6 +13,5 @@ class Solution {
                 left++;
             }
         }
-
     }
 }
