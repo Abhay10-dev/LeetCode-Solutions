@@ -1,5 +1,7 @@
 class Solution {
     public List<String> removeAnagrams(String[] words) {
+        if(words == null || words.length == 0) return new ArrayList<>();
+
         List<String> res = new ArrayList<>();
 
         for(String s : words){
