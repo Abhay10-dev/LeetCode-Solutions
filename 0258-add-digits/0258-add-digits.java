@@ -3,17 +3,6 @@ class Solution {
 
         if(num < 10) return num;
 
-        while(num >= 10){
-            int sum = 0;
-
-            while(num > 0){
-                sum = sum + (num % 10);
-                num = num / 10;
-            }
-
-            num = sum;
-        }
-
-        return num;
+        return ((num % 9)==0) ? 9 : num % 9;
     }
 }
