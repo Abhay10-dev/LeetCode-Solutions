@@ -3,6 +3,6 @@ class Solution {
 
         if(num < 10) return num;
 
-        return ((num % 9)==0) ? 9 : num % 9;
+        return 1 + ((num - 1) % 9);
     }
 }
