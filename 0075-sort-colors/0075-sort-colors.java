@@ -2,39 +2,29 @@ class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
 
-        quickSort(nums, 0, n-1);
-    }
+        int zeroCount = 0, oneCount= 0, twoCount = 0;
 
-    private void quickSort(int[] nums, int left, int right){
+        for(int i=0; i < n; i++){
+            if(nums[i] == 0){
+                zeroCount++;
+            } else if(nums[i] == 1){
+                oneCount++;
+            } else {
+                twoCount++;
+            }
+        } 
 
-        if(left < right){
-            int pivot = partition(nums, left, right);
-
-            quickSort(nums, left, pivot-1);
-            quickSort(nums, pivot+1, right);
-        }
-    }
-
-    private int partition(int[] nums, int left, int right){
-        int pivot = nums[right];
-        int i = left - 1;
-
-        for(int j=left; j <= right-1; j++){
-
-            if(nums[j] < pivot){
-                i++;
-                swap(nums, i, j);
+        for(int i=0; i < n; i++){
+            if(zeroCount > 0){
+                nums[i] = 0;
+                zeroCount--;
+            } else if(oneCount > 0){
+                nums[i] = 1;
+                oneCount--;
+            } else {
+                nums[i] = 2;
+                twoCount--;
             }
         }
-
-        swap(nums, i+1, right);
-
-        return i+1;
-    }
-
-    private void swap(int[] nums, int i, int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
