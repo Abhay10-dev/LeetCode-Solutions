@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3238-find-the-number-of-winning-players](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
 | ------- |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -543,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
