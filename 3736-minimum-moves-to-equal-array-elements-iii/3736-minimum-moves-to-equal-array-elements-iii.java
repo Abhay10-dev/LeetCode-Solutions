@@ -1,19 +1,20 @@
 class Solution {
     public int minMoves(int[] nums) {
-        Arrays.sort(nums);
-
         int n = nums.length;
-        int minCount = 0;
 
-        for(int i=0; i < nums.length; i++){
+        if(n == 1) return 0;
 
-            while(nums[i] != nums[n-1]){
-                nums[i] += 1;
-                minCount++;
+        int maxValue = Integer.MIN_VALUE;
+        int totalSum = 0;
+
+        for(int i=0; i < n; i++){
+            totalSum += nums[i];
+
+            if(maxValue < nums[i]){
+                maxValue = nums[i];
             }
-
         }
 
-        return minCount;
+        return (maxValue*n)-totalSum;
     }
 }
