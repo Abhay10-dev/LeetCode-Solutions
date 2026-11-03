@@ -4,14 +4,10 @@ class Solution {
 
         int sum = 0;
 
-        int i = 1;
-        while(i < nums.length){
-            int val = Math.min(nums[i], nums[i-1]);
-
-            sum = sum + val;
-            i += 2;
+        for(int i=0; i < nums.length; i+=2){
+            sum += nums[i];
         }
-
+        
         return sum;
     }
 }
