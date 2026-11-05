@@ -9,6 +9,7 @@ class Solution {
 
                 if(diff <= d){
                     isSmall = false;
+                    break;
                 }
             }
 
