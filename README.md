@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
