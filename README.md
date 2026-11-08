@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
 |  |
 | ------- |
