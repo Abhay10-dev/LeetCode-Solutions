@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
 ## String
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -589,4 +591,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0561-array-partition) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
