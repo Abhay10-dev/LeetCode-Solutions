@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3238-find-the-number-of-winning-players) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
+| [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
@@ -458,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Manacher
 |  |
