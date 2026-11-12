@@ -5,17 +5,17 @@ class Solution {
             return intersect(nums2, nums1);
         }
 
-        Arrays.sort(nums1);
-        Arrays.sort(nums2);
+        Map<Integer, Integer> counts = new HashMap<>();
+        for (int num : nums1) {
+            counts.put(num, counts.getOrDefault(num, 0) + 1);
+        }
 
         List<Integer> list = new ArrayList<>();
-        int leftBound = 0; 
-
-        for (int num : nums1) {
-            int index = binarySearchLeftmost(nums2, leftBound, nums2.length-1, num);
-            if (index != -1) {
+        for (int num : nums2) {
+            int count = counts.getOrDefault(num, 0);
+            if (count > 0) {
                 list.add(num);
-                leftBound = index + 1; 
+                counts.put(num, count - 1);
             }
         }
 
