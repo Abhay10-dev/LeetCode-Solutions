@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
