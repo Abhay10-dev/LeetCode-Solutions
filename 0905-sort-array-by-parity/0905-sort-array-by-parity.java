@@ -5,7 +5,7 @@ class Solution {
 
         while(left < right){
 
-            if(nums[left] % 2 != 0){
+            if((nums[left] & 1) != 0){
                 int temp = nums[left];
                 nums[left] = nums[right];
                 nums[right] = temp;
