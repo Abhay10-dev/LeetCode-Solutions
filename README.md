@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Memoization
 |  |
 | ------- |
