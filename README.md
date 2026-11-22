@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
