@@ -1,5 +1,14 @@
 class Solution {
     public boolean checkString(String s) {
-        return !s.contains("ba");
+        
+        for(int i=1; i < s.length(); i++){
+            
+            if(s.charAt(i-1) > s.charAt(i)) {
+                return false;
+            }
+
+        }
+
+        return true;
     }
 }
