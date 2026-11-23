@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
