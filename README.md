@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhay10-dev/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
